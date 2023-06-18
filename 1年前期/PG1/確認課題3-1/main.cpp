@@ -20,5 +20,4 @@ int main() {
 	else if (age >= 0)	printf("—c”NŠú\n");				// 0ÎˆÈã,4ÎˆÈ‰º‚Í—c­Šú
 	else if (age < 0) 	printf("¶‚Ü‚ê‚Ä‚¢‚È‚¢\n");		// 0Î–¢–‚Í¶‚Ü‚ê‚Ä‚È‚¢
 	return 0;
-
 }
